@@ -1,5 +1,7 @@
 # Back-end
 
+Det här är back-end delen av projectet "vill du ha nyhetsbrev", där du kan logga in, registrera ett konto och därefter kunna prenumerera och avluta prenumation på nyhetsbrev.
+
 I terminalen:
 
 1. Navigera med commandot "cd sökvägen/till/mappen/BACK-END" 
